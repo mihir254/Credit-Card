@@ -1,4 +1,4 @@
-This is a react-native application using EXPO.
+This is a react-native application built using EXPO.
 This application can run on both, android as well as IOS.
 
 To run this application on a mobile device:
