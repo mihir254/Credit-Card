@@ -15,3 +15,8 @@ If you wish to run the application on a simulator:
    1) npm i
    2) expo start
 2. Then from the tab that opened on the browser, select Run on simulator option from the menu situated on the left.
+
+![alt text](https://github.com/[mihir254]/[Credit-Card]/blob/[main]/1.png?raw=true)
+![alt text](https://github.com/[mihir254]/[Credit-Card]/blob/[main]/2.png?raw=true)
+![alt text](https://github.com/[mihir254]/[Credit-Card]/blob/[main]/3.png?raw=true)
+![alt text](https://github.com/[mihir254]/[Credit-Card]/blob/[main]/4.png?raw=true)
